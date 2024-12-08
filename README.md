@@ -1,1 +1,1 @@
-https://Plohish03.github.io/MyCV/
+https://Plohish03.github.io/MyCV/index.html
