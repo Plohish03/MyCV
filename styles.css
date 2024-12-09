@@ -49,6 +49,9 @@ body {
     color: #4a4a4a;
     margin-top: 20px;
 }
+.profile-info i{
+    margin: 6px;
+}
 
 .profile-info a {
     color: #050505;
@@ -57,7 +60,8 @@ body {
 
 .profile-info a:hover {
     text-decoration: none;
-    color:#333;
+    color:#696969;
+    font-size: 17px;
 }
 /******MAIN********/
 .main{
@@ -78,8 +82,8 @@ body {
     margin: 0 auto;
 }
 
-h3 {
-    font-size: 20px;
+h2 {
+    
     margin-bottom: 20px;
     color: #333;
 }
@@ -94,21 +98,92 @@ h3 {
     margin-bottom: 5px;
     color: #333;
 }
-
-.progress-bar {
-    width: 100%;
-    height: 8px;
-    background-color: #e0e0e0;
-    border-radius: 5px;
-    overflow: hidden;
-    position: relative;
+.segments {
+    display: flex;
+    gap: 4px; 
+}
+.segment-container {
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background: none;
+    gap: 4px;
+}
+.segment {
+    width: 70px; 
+    height: 5px;
+    border-radius: 20px; 
+    background: #dcdcdc; 
 }
 
-.progress {
-    height: 100%;
-    background-color: #333;
-    border-radius: 5px;
-    transition: width 0.3s ease-in-out;
+.segment.filled {
+    background: #1a1a1a; 
+}
+.segment.label{
+    font-size: 12px; 
+    color: #e1e1e1db; 
+    background: none;
+}
+.segment.label.active{
+    font-size: 12px; 
+    color: #515151; 
+    background: none;
+}
+/****Languages****/
+.lang-section {
+    width: 250px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+h2 {
+    
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.lang {
+    margin-bottom: 15px;
+}
+
+.lang span {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+}
+.segments-lang {
+    display: flex;
+    gap: 4px; 
+}
+.segment-lang-container {
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background: none;
+    gap: 4px;
+}
+.segment-lang {
+    width: 30px; 
+    height: 5px;
+    border-radius: 20px; 
+    background: #dcdcdc; 
+}
+
+.segment-lang.filled {
+    background: #1a1a1a; 
+}
+.segment-lang.label{
+    font-size: 12px; 
+    color: #e1e1e1db; 
+    background: none;
+}
+.segment-lang.label.active{
+    font-size: 12px; 
+    color: #515151; 
+    background: none;
 }
 /****Education****/
 
@@ -131,9 +206,10 @@ h3 {
     margin-top: 30px;
 }
 
-.courses p {
-    color: #4a4a4a;
+.courses ul {
+    color:#333;
     margin-top: 15px;
+    margin-left: 15px;
 }
 
 /****Experience****/
@@ -152,7 +228,7 @@ h3 {
 .achievements ul {
     color: #4a4a4a;
     margin-top: 15px;
-    margin-left: 30px;
+    margin-left: 15px;
 }
 .achievements li {
     margin-top: 5px;
