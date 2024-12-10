@@ -222,7 +222,7 @@ h2 {
     color: #4a4a4a;
     margin-top: 15px;
 }
-/****Achievements****/
+/****Achievements****
 .achievements h1 {
     margin-top: 30px;
 }
@@ -233,7 +233,7 @@ h2 {
 }
 .achievements li {
     margin-top: 5px;
-}
+}/
 
 /****Personal-qualities****/
 .personal-qualities h1 {
