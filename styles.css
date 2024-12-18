@@ -191,15 +191,12 @@ h2 {
 .education h4 {
     color:#333;
     margin-top: 15px;
+    margin-left: 15px;
 }
 .education p {
     color: #4a4a4a;
     margin-top: 5px;
-}
-.education ul {
-    color: #4a4a4a;
-    margin: 10px;
-    margin-left: 30px;
+    margin-left: 15px;
 }
 /****Courses****/
 
@@ -221,6 +218,19 @@ h2 {
 .experience p{
     color: #4a4a4a;
     margin-top: 15px;
+    margin-left: 15px;
+}
+.experience h4{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.experience ul{
+    margin: 10px;
+    margin-left: 30px;
+}
+.experience li {
+    margin-top: 5px;
+    margin-left: 15px;
 }
 /****Achievements****
 .achievements h1 {
