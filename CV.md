@@ -1,54 +1,131 @@
-# Николай Руденко  
-**Front-end Developer**  
-📍 Минск, Беларусь | 📞 +375 44 515 3539 | ✉️ [nikolayrudenko03@gmail.com](mailto:nikolayrudenko03@gmail.com)  
+# CV Nikolay Rudenko
+
+## Header
+
+![Nikolay Rudenko](img/MyPhoto.jpg)
+
+### Nikolay Rudenko  
+**Software Engineer**  
+- 📍 Minsk, Belarus  
+- 📞 +375445153539  
+- ✉️ [nikolayrudenko03@gmail.com](mailto:nikolayrudenko03@gmail.com)
 
 ---
 
-## 🛠️ Навыки
-- **HTML5**: ★★★★★  
-- **CSS**: ★★★★★  
-- **JavaScript**: ★★★★☆  
-- **TypeScript**: ★★★☆☆  
-- **React**: ★★★☆☆  
-- **Git**: ★★★★☆  
+## Tech Skills
+
+### HTML5
+- **Elementary** ✔️  
+- **Intermediate** ✔️  
+- **Advanced**  
+
+### CSS
+- **Elementary** ✔️  
+- **Intermediate** ✔️  
+- **Advanced**  
+
+### JavaScript
+- **Elementary** ✔️  
+- **Intermediate**  
+- **Advanced**  
+
+### TypeScript
+- **Elementary** ✔️  
+- **Intermediate**  
+- **Advanced**  
+
+### React
+- **Elementary** ✔️  
+- **Intermediate**  
+- **Advanced**  
+
+### Git
+- **Elementary** ✔️  
+- **Intermediate**  
+- **Advanced**  
 
 ---
 
-## 🏫 Образование
-**Белорусский Государственный Университет**  
-_Механика и математическое моделирование_  
-**2021 — настоящее время**  
-- Ключевые дисциплины: Механика, C++, Информационные технологии, Компьютерное моделирование  
+## Languages
+
+### English
+- **A1** ✔️  
+- **A2** ✔️  
+- **B1**  
+- **B2**  
+- **C1**  
+- **C2**
+
+### Russian
+- **A1** ✔️  
+- **A2** ✔️  
+- **B1** ✔️  
+- **B2** ✔️  
+- **C1** ✔️  
+- **C2** ✔️  
+
+### Belarusian
+- **A1** ✔️  
+- **A2** ✔️  
+- **B1** ✔️  
+- **B2** ✔️  
+- **C1** ✔️  
+- **C2** ✔️  
 
 ---
 
-## 📚 Курсы
-- **EPAM & RS School (2024)**  
-  _Курс Front-end разработки (на английском уровне A2+)_
+## Education
+**Belarusian State University**  
+Minsk, Belarus  
+- Faculty of Mechanics and Mathematics  
+- 2021 - Present  
 
 ---
 
-## 💼 Опыт работы
-- **Стажировка в IT компании B-In Dev (6 месяцев)**  
-  - Разработка компонентов для клиентских веб-приложений  
-  - Исправление багов и оптимизация производительности  
+## Courses
+- **RS School (JavaScript/Front End)**
 
 ---
 
-## 🏆 Достижения
-- Освоил JavaScript, HTML и CSS в рамках самостоятельного обучения и успешно применил их в реальных проектах.  
-- Разработал веб-сайт для компании _"ОАО ЖКФМ"_, включая интерактивные элементы и адаптивный дизайн.  
-- Полностью самостоятельно изучил JavaScript, включая работу с DOM и основами асинхронности.  
+## Experience
+
+### Industrial Practice  
+**JSC "Zhlobin Quarry of Molding Materials"**  
+**Intern (Web Development)**  
+- Internship Period: June 2024 – July 2024  
+
+#### Key Achievements and Responsibilities:  
+- Conducted code refactoring, improving readability and performance.  
+- Utilized Bootstrap for responsive web design.  
+- Migrated website data to a new platform, maintaining data integrity.  
+- Developed PHP and JavaScript for a contact form.
+
+#### Skills Gained:  
+- Proficiency in PHP and JavaScript.  
+- Experience with Bootstrap.  
+- Code refactoring and optimization.  
+- Data migration and content management.
 
 ---
 
-## 🌍 Языки
-- Русский: Родной  
-- Белорусский: Свободное владение  
-- Английский: A2+  
+## Soft Skills
+- Responsibility  
+- Sociability  
+- Ability to learn  
+- Teamwork  
+- Stress resistance  
+- Creativity  
+- Analytical mindset  
+- Self-organization  
 
 ---
 
-## 🔗 Социальные сети
-- [LinkedIn](https://linkedin.com)  
-- [GitHub](https://github.com)  
+## Social Media
+- [LinkedIn](https://www.linkedin.com/in/nikolay-rudenko-a99677238/)  
+- [GitHub](https://github.com/Plohish03)  
+- [Telegram](https://t.me/k_rudenko_o)
+
+---
+
+&copy; 2024 Nikolay Rudenko. All rights reserved.
+
